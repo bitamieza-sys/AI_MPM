@@ -1,5 +1,5 @@
 # AI_MPM
-some good projects for AI-MPM using Optimized MLP
+#some good projects for AI-MPM using Optimized MLP
 import pandas as pd
 import torch
 import torch.nn as nn
