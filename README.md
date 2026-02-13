@@ -1,7 +1,7 @@
 # AI_MPM
 Code availability repository
 
-this is a Python program for AI MPM project
+this is a Python program for AI MPM project; here is 3 brunches for each optimizer. see GS MLP/ SSA MLP/GWO MLP for code availability
 
 for running program make sure that all requirement libraries are installed
 
