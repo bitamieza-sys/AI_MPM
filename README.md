@@ -1,9 +1,9 @@
 # AI_MPM
 some good projects for AI-MPM using Optimized MLP
 import pandas as pd
-import tork
-import tork.nn as nn
-import tork.optim as optim
+import torch
+import torch.nn as nn
+import torch.optim as optim
 from sklearn.model_selection import KFold
 from sklearn.preprocessing import StandardScaler
 from mealpy.swarm_based.SSA import OriginalSSA
