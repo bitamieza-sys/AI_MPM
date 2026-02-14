@@ -28,3 +28,9 @@ type the file path.
 example: d:/main.csv
 
 now, code will run, at first code will optimize MLP parameters using train dataset to reach optimum, then code will process main database and save new .csv file including all points with range of labels [0-1]
+
+
+
+
+
+for more information, see trn.csv and tst.csv files as examples. 
